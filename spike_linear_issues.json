@@ -1,0 +1,172 @@
+{
+  "issues": [
+    {
+      "issueName": "[Sales] Enter Client Into Dynamics, Create Request for Quote, Send Client Request for Quote",
+      "dueDate": "3 days",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 1
+    },
+    {
+      "issueName": "[Sales] Sales will assure sales Order is completed with all required Doc's & original quote attached",
+      "dueDate": "1 day",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 2
+    },
+    {
+      "issueName": "[Sales] Sales must Email Order confirmation & Customer Specs/Drawings to Engineering",
+      "dueDate": "1 day",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 3
+    },
+    {
+      "issueName": "[Engineering] Engineering Manager will assign Designer for Drawing",
+      "dueDate": "1 day",
+      "assigneeId": "engineering@spikeelectric.com",
+      "order": 4
+    },
+    {
+      "issueName": "[Design] Designer will design the Dwgs/BOM/Specs and forward to Eng Mgr for acceptance",
+      "dueDate": "4 days",
+      "assigneeId": "design@spikeelectric.com",
+      "order": 5
+    },
+    {
+      "issueName": "[Engineering] Engineering Manager must review and sign off Bill of Material, Drawing, and Specs",
+      "dueDate": "1 day",
+      "assigneeId": "engineering@spikeelectric.com",
+      "order": 6
+    },
+    {
+      "issueName": "[Sales] Sales Must email Approval Drawing(s) to Customer. NOTE: any changes must be rerouted to Design Engineer Manager",
+      "dueDate": "10 days",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 7
+    },
+    {
+      "issueName": "[Sales] Sales must attach Drawings and Specs",
+      "dueDate": "10 days",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 8
+    },
+    {
+      "issueName": "[Inventory] Verify any material that is in stock according to BOM",
+      "dueDate": "2 days",
+      "assigneeId": "inventory@spikeelectric.com",
+      "order": 9
+    },
+    {
+      "issueName": "[Purchasing] Purchased all material according to BOM (that is not in stock)",
+      "dueDate": "5 days",
+      "assigneeId": "purchasing@spikeelectric.com",
+      "order": 10
+    },
+    {
+      "issueName": "[Purchasing] Purchasing to confirm to sales \"last item in date\"",
+      "dueDate": "5 days",
+      "assigneeId": "purchasing@spikeelectric.com",
+      "order": 11
+    },
+    {
+      "issueName": "[Purchasing] Track of incoming material, identify items to be expedited",
+      "dueDate": "5 days",
+      "assigneeId": "purchasing@spikeelectric.com",
+      "order": 12
+    },
+    {
+      "issueName": "[Receiving] Enclosure & 50% of material are Received",
+      "dueDate": "1 day",
+      "assigneeId": "receiving@spikeelectric.com",
+      "order": 13
+    },
+    {
+      "issueName": "[Receiving] 100% of all material is in and Floor Manager is informed",
+      "dueDate": "1 day",
+      "assigneeId": "receiving@spikeelectric.com",
+      "order": 14
+    },
+    {
+      "issueName": "[Production] Confirm all parts / materials / Paperwork are correct",
+      "dueDate": "1 day",
+      "assigneeId": "production@spikeelectric.com",
+      "order": 15
+    },
+    {
+      "issueName": "[Production] Confirm final approved drawings",
+      "dueDate": "3 days",
+      "assigneeId": "production@spikeelectric.com",
+      "order": 16
+    },
+    {
+      "issueName": "[Production] Make all required labels",
+      "dueDate": "2 days",
+      "assigneeId": "production@spikeelectric.com",
+      "order": 17
+    },
+    {
+      "issueName": "[Production] Technician pre-build parts/materials inspection",
+      "dueDate": "10 days",
+      "assigneeId": "production@spikeelectric.com",
+      "order": 18
+    },
+    {
+      "issueName": "[Production] Technician build complete",
+      "dueDate": "10 days",
+      "assigneeId": "production@spikeelectric.com",
+      "order": 19
+    },
+    {
+      "issueName": "[Sales] Verify Customer Tests and Documents Required Factory (AKA Acceptance Test (FAT) or Megger test complete)",
+      "dueDate": "10 days",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 20
+    },
+    {
+      "issueName": "[Quality Control] Factory Acceptance Test (FAT) or test complete. Confirm As-built drawings completed",
+      "dueDate": "1 day",
+      "assigneeId": "qualitycontrol@spikeelectric.com",
+      "order": 21
+    },
+    {
+      "issueName": "[Quality Control] Test reports generated and filed on server in Job folder",
+      "dueDate": "1 day",
+      "assigneeId": "qualitycontrol@spikeelectric.com",
+      "order": 22
+    },
+    {
+      "issueName": "[Quality Control] Assure that product is free of metal shavings, debris, and has been wiped down",
+      "dueDate": "1 day",
+      "assigneeId": "qualitycontrol@spikeelectric.com",
+      "order": 23
+    },
+    {
+      "issueName": "[Quality Control] Must take picture and upload to the share drive within 24 hours of acceptance",
+      "dueDate": "1 day",
+      "assigneeId": "qualitycontrol@spikeelectric.com",
+      "order": 24
+    },
+    {
+      "issueName": "[Quality Control] Completed \"Final Release of Product\"",
+      "dueDate": "1 day",
+      "assigneeId": "qualitycontrol@spikeelectric.com",
+      "order": 25
+    },
+    {
+      "issueName": "[Sales] Customer witness",
+      "dueDate": "1 day",
+      "assigneeId": "sales@spikeelectric.com",
+      "order": 26
+    },
+    {
+      "issueName": "[Shipping] Product prepared for shipment.",
+      "dueDate": "1 day",
+      "assigneeId": "shipping@spikeelectric.com",
+      "order": 27
+    },
+    {
+      "issueName": "[Shipping] Traveler complete and returned to salesmen",
+      "dueDate": "1 day",
+      "assigneeId": "shipping@spikeelectric.com",
+      "order": 28
+    }
+  ]
+}
